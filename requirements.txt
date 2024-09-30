@@ -1,0 +1,8 @@
+numpy
+scipy
+tqdm
+matplotlib
+multiprocess
+multiprocessing
+cvxpy
+jupyter
