@@ -5,8 +5,6 @@ This repository contains the MATLAB code that accompanies the research paper:
 
 ![Project Image](img/response.png)
 
-Code accompanying "Convex Constrained Controller Synthesis for Evolution Equations."
-
 ## Prerequisites
 
 Only for performance comparison:
