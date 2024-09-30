@@ -1,5 +1,5 @@
 # Convex Constrained Controller Synthesis for Evolution Equations
-This repository contains the MATLAB code that accompanies the research paper:
+This repository contains the python code that accompanies the research paper:
 > Conger, Lauren and Leeman, Antoine P. and Hoffman Franca “Convex Constrained Controller Synthesis for Evolution Equations”
 > arXiv 2024.
 
