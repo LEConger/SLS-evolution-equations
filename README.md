@@ -27,12 +27,16 @@ On Windows:
 
 ```
 python -m venv venv
+```
+```
 .\venv\Scripts\activate
 ```
 On macOS/Linux:
 
 ```
 python3 -m venv venv
+```
+```
 source venv/bin/activate
 ```
 
@@ -42,6 +46,8 @@ Once the virtual environment is activated, install the dependencies from the req
 
 ```
 python -m pip install --upgrade pip
+```
+```
 pip install -r requirements.txt
 ```
 You can check the installed dependencies by running:
