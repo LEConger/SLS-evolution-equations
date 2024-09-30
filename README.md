@@ -1,13 +1,11 @@
 # Convex Constrained Controller Synthesis for Evolution Equations
 This repository contains the MATLAB code that accompanies the research paper:
-> Conger, Lauren and Leeman, Antoine and Hoffman Franca “Convex Constrained Controller Synthesis for Evolution Equations”
-> arXiv (forthcoming) 2024.
+> Conger, Lauren and Leeman, Antoine P. and Hoffman Franca “Convex Constrained Controller Synthesis for Evolution Equations”
+> arXiv 2024.
 
 ![Project Image](img/response.png)
 
-
 Code accompanying "Convex Constrained Controller Synthesis for Evolution Equations."
-
 
 ## Prerequisites
 
@@ -43,7 +41,13 @@ source venv/bin/activate
 Once the virtual environment is activated, install the dependencies from the requirements.txt file by running:
 
 ```
+python -m pip install --upgrade pip
 pip install -r requirements.txt
+```
+You can check the installed dependencies by running:
+
+```
+pip list
 ```
 
 ## Usage
@@ -64,7 +68,7 @@ If you use this code in your research, please cite our paper:
   ```
 @article{conger2024_pde_sls,
   title={Convex Constrained Controller Synthesis for Evolution Equations},
-  author={Conger, Lauren and Leeman, Antoine and Hoffman Franca},
+  author={Conger, Lauren and Leeman, Antoine P. and Hoffman Franca},
   journal={arXiv},
   year={2024}
 }
