@@ -1,9 +1,11 @@
 # Convex Constrained Controller Synthesis for Evolution Equations
 This repository contains the python code that accompanies the research paper:
 > Conger, Lauren and Leeman, Antoine P. and Hoffmann Franca “Convex Constrained Controller Synthesis for Evolution Equations”
-> arXiv 2024.
+> arXiv2410.02658 2024.
 
 ![Project Image](fig1.png)
+
+The paper is freely available on [arXiv](http://www.arxiv.org/abs/2410.02658)
 
 ## Prerequisites
 
@@ -73,7 +75,7 @@ If you use this code in your research, please cite our paper:
 @article{conger2024_pde_sls,
   title={Convex Constrained Controller Synthesis for Evolution Equations},
   author={Conger, Lauren and Leeman, Antoine P. and Hoffmann Franca},
-  journal={arXiv},
+  journal={arXiv preprint 2410.02658},
   year={2024}
 }
   ```
